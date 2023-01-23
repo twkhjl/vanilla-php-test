@@ -1,13 +1,16 @@
 <?php
-echo 'test!'
+
+$a = 1;
+$b = 2;
+
+
+echo phpinfo();
 
 ?>
 
-  <?php include 'src/templates/topnav.php'; ?>
 
   <h3>test</h3>
 
-  <?php include 'src/templates/bottom.php'; ?>
 </body>
 
 </html>

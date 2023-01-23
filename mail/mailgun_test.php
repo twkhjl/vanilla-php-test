@@ -23,19 +23,3 @@ $mg->messages()->send($domain, [
 ]);
 
 ?>
-<!DOCTYPE html>
-<html lang="zh-tw">
-
-<head>
-  <?php include 'src/templates/head.php'; ?>
-</head>
-
-<body>
-  <?php include 'src/templates/topnav.php'; ?>
-
-  <h3>test</h3>
-
-  <?php include 'src/templates/bottom.php'; ?>
-</body>
-
-</html>
